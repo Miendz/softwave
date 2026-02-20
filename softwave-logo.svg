@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 36" width="160" height="36">
+  <defs>
+    <linearGradient id="wg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <!-- Wave icon -->
+  <path d="M4 22 C8 16, 12 16, 16 22 C20 28, 24 28, 28 22" stroke="url(#wg)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M4 14 C8 8, 12 8, 16 14 C20 20, 24 20, 28 14" stroke="url(#wg)" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <!-- Text -->
+  <text x="36" y="26" font-family="Nunito, sans-serif" font-size="22" font-weight="800" fill="#2C3E80">Softwave</text>
+</svg>
